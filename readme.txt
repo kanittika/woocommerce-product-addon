@@ -49,6 +49,17 @@ WooCommerce Personalized Product Option Plugin allow site admin to add unlimited
 2. Activate the plugin through the `Plugins` menu in WordPress
 3. After activation, you can set options from `Settings -> PersonalizedWoo` menu
 
+== Screenshots ==
+
+1. Plugin options (input fields)
+2. Selecting meta with product	
+3. Showing inputs on front end product
+4. Inputs attached to cart item
+5. Inputs attached to checkout page
+6. Inputs attached with order invoice
+7. Finally admin can see all attached inputs in orders panel
+8. Uploaded image in order panel
+9. Attach inputs to bulk products
 
 == Changelog ==
 = 1.0 24/4/2015 =
