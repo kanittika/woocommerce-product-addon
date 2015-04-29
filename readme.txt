@@ -1,4 +1,4 @@
-=== WooCommerce Personalized Product Option Manager ===
+=== WooCommerce Add-on ===
 Contributors: nmedia
 Tags: woocommerce, pesonalized products, variations
 Donate link: http://www.najeebmedia.com/donate
